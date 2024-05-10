@@ -1,1 +1,1 @@
-https://main--pokemon-vmtngan.netlify.app/
+https://pokemon-vmtngan.netlify.app/
